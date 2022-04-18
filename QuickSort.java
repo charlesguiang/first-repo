@@ -1,12 +1,5 @@
 package com.company;
 
-//  Charles Mathew Guiang
-//  Student ID 261063854
-
-//  Resources used for sorting algorithm:
-//  (https://www.geeksforgeeks.org/quick-sort/)
-//  (https://www.programiz.com/dsa/quick-sort)
-
 public class QuickSort {
 
     public static int partition(int[] array, int low, int high) {
