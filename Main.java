@@ -1,8 +1,5 @@
 package com.company;
 
-//  Charles Mathew Guiang
-//  Student ID 261063854
-
 import java.util.Arrays;
 import java.util.Random;
 
