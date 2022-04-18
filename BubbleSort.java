@@ -1,12 +1,5 @@
 package com.company;
 
-//  Charles Mathew Guiang
-//  Student ID 261063854
-
-//  Resources used for sorting algorithm:
-//  (https://www.geeksforgeeks.org/bubble-sort/)
-//  (https://www.programiz.com/dsa/bubble-sort)
-
 import java.util.Arrays;
 
 public class BubbleSort {
