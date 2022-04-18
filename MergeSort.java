@@ -1,12 +1,5 @@
 package com.company;
 
-//  Charles Mathew Guiang
-//  Student ID 261063854
-
-//  Resources used for sorting algorithm:
-//  (https://www.geeksforgeeks.org/merge-sort/)
-//  (https://www.programiz.com/dsa/merge-sort)
-
 public class MergeSort {
 
     public static void merge(int[] array, int left, int mid, int right) {
